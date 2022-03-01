@@ -1,0 +1,20 @@
+@import "../src/common/common.scss";
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: "Open Sans", sans-serif;
+}
+
+.container {
+	margin: 0 40px;
+}
+
+a {
+	text-decoration: none;
+}
+
+body {
+	background: $primary-color;
+}
